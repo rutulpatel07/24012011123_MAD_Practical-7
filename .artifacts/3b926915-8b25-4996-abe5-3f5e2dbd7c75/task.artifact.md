@@ -1,5 +1,0 @@
-- [x] Fix typo in `Person.kt` and root height in `single_item.xml`
-- [x] Implement `PersonAdapter.kt`
-- [x] Add `RecyclerView` to `activity_main.xml`
-- [x] Initialize `RecyclerView` in `MainActivity.kt`
-- [x] Verify UI with dummy data
